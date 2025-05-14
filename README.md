@@ -203,4 +203,3 @@ Comparison and logical operators
 
 ---
 
-Let me know when you'd like the **PDF version**, or if you'd like help building the **next s
